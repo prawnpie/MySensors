@@ -1483,7 +1483,7 @@ static void print_whitelisting_entry(void)
 	Serial.println(
 	    F("+------------------------------------------------------------------------------------+"));
 	Serial.println(
-	    F("|                      This nodes whitelist entry on other nodes                     |"));
+	    F("|                      This node's whitelist entry on other noes                     |"));
 	Serial.println(
 	    F("+------------------------------------------------------------------------------------+"));
 	Serial.print(F("{.nodeId = <ID of this node>,.serial = {"));
